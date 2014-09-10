@@ -1,0 +1,28 @@
+{
+  "title": "test",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "http://en.wikipedia.org/wiki/HATEOAS",
+      "id": 2,
+      "attr": {
+        "style": {}
+      }
+    },
+    "2": {
+      "title": "aaaaa",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "sdasdas",
+          "id": 5
+        }
+      }
+    },
+    "-1": {
+      "title": "test2",
+      "id": 3
+    }
+  }
+}
