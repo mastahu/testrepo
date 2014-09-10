@@ -8,6 +8,12 @@
       "id": 2,
       "attr": {
         "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven",
+          "id": 8
+        }
       }
     },
     "2": {
