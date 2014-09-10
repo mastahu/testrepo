@@ -12,35 +12,30 @@
       "ideas": {
         "1": {
           "title": "http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven",
-          "id": 8
-        }
-      }
-    },
-    "2": {
-      "title": "aaaaa",
-      "id": 4,
-      "ideas": {
-        "1": {
-          "title": "sdasdas",
-          "id": 5,
+          "id": 8,
           "ideas": {
             "1": {
-              "title": "xccxzcx",
-              "id": 6,
-              "ideas": {
-                "1": {
-                  "title": "ggdfgdf",
-                  "id": 7
-                }
-              }
+              "title": "http://roy.gbiv.com/untangled/2009/it-is-okay-to-use-post",
+              "id": 9
             }
           }
         }
       }
     },
-    "-1": {
-      "title": "test2",
-      "id": 3
+    "-2": {
+      "title": "mindmapping tools",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "https://www.text2mindmap.com/",
+          "id": 12
+        },
+        "2": {
+          "title": "https://www.mindmup.com",
+          "id": 13
+        }
+      }
     }
-  }
+  },
+  "links": []
 }
