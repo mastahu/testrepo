@@ -27,6 +27,26 @@
         }
       }
     },
+    "3": {
+      "title": "startup",
+      "id": 25,
+      "ideas": {
+        "1": {
+          "title": "https://medium.com/@michalbohanes/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8",
+          "id": 26,
+          "ideas": {
+            "1": {
+              "title": "accelerator programmes such as Seedcamp, TechStars or Wayra.",
+              "id": 28
+            },
+            "2": {
+              "title": "Seedrs ",
+              "id": 29
+            }
+          }
+        }
+      }
+    },
     "-2": {
       "title": "mindmapping tools",
       "id": 11,
