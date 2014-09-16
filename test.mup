@@ -187,12 +187,17 @@
           "id": 30,
           "attr": {
             "style": {}
-          }
+          },
+          "ideas": {}
         }
       },
       "attr": {
         "style": {}
       }
+    },
+    "-4": {
+      "title": "test",
+      "id": 40
     }
   },
   "links": [
