@@ -67,7 +67,7 @@
       "id": 31,
       "ideas": {
         "1": {
-          "title": "http://combomicroservices.blogspot.co.uk/2014/08/combo-style-microservices-in-this-first.html",
+          "title": "Squirell on Combo Style Microservices http://combomicroservices.blogspot.co.uk/2014/08/combo-style-microservices-in-this-first.html",
           "id": 32,
           "attr": {
             "position": [
@@ -79,7 +79,7 @@
           },
           "ideas": {
             "1": {
-              "title": "http://martinfowler.com/articles/microservices.html",
+              "title": "Martin Fowler on Microservices http://martinfowler.com/articles/microservices.html",
               "id": 34,
               "ideas": {
                 "1": {
@@ -90,7 +90,7 @@
                   }
                 },
                 "2": {
-                  "title": "http://www.eaipatterns.com/ramblings/18_starbucks.html",
+                  "title": "Starbucks Does Not Use Two-Phase Commithttp://www.eaipatterns.com/ramblings/18_starbucks.html",
                   "id": 38,
                   "attr": {
                     "style": {}
