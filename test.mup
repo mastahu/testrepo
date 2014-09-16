@@ -95,6 +95,28 @@
                   "attr": {
                     "style": {}
                   }
+                },
+                "3": {
+                  "title": "http://netflix.github.io/#repo",
+                  "id": 41
+                },
+                "4": {
+                  "title": "https://dropwizard.github.io/dropwizard/",
+                  "id": 42
+                },
+                "5": {
+                  "title": "CircuitBreaker http://martinfowler.com/bliki/CircuitBreaker.html",
+                  "id": 46,
+                  "ideas": {
+                    "1": {
+                      "title": "Release It http://www.amazon.com/gp/product/B00A32NXZO?ie=UTF8&tag=martinfowlerc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00A32NXZO",
+                      "id": 47
+                    },
+                    "2": {
+                      "title": "Netflix blog entry does a great job of explaining their application of them.    http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html",
+                      "id": 48
+                    }
+                  }
                 }
               }
             }
@@ -103,6 +125,16 @@
       },
       "attr": {
         "style": {}
+      }
+    },
+    "5": {
+      "title": "nauka programowania",
+      "id": 43,
+      "ideas": {
+        "1": {
+          "title": "http://scratch.mit.edu/",
+          "id": 44
+        }
       }
     },
     "-2": {
