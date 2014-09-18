@@ -49,7 +49,7 @@
               }
             },
             "2": {
-              "title": "SeedrsÂ ",
+              "title": "SeedrsÃ‚Â ",
               "id": 29,
               "attr": {
                 "style": {}
@@ -83,7 +83,7 @@
               "id": 34,
               "ideas": {
                 "1": {
-                  "title": "Video : Does My Bus Look Big in This? by Martin Fowler & Jim Webber http://www.infoq.com/presentations/soa-without-esb",
+                  "title": "Video : Does My Bus Look Big in This? byÂ Martin Fowler & Jim WebberÂ http://www.infoq.com/presentations/soa-without-esb",
                   "id": 37,
                   "attr": {
                     "style": {}
@@ -113,7 +113,7 @@
                       "id": 47
                     },
                     "2": {
-                      "title": "Netflix blog entry does a great job of explaining their application of them.    http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html",
+                      "title": "Netflix blog entryÂ does a great job of explaining their application of them.    http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html",
                       "id": 48
                     }
                   },
@@ -122,11 +122,11 @@
                   }
                 },
                 "6": {
-                  "title": "the preference in the microservice world is to only use versioning as a last resort.  http://martinfowler.com/articles/enterpriseREST.html#versioning",
+                  "title": "the preference in the microservice world is toÂ only use versioning as a last resort.Â  http://martinfowler.com/articles/enterpriseREST.html#versioning",
                   "id": 49
                 },
                 "7": {
-                  "title": "CAP Twelve Years Later: How the \"Rules\" Have Changed http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed",
+                  "title": "CAP Twelve Years Later: How the \"Rules\" Have ChangedÂ http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed",
                   "id": 50
                 }
               },
@@ -215,14 +215,14 @@
           }
         },
         "4": {
-          "title": "How to GET a Cup of Coffee http://www.infoq.com/articles/webber-rest-workflow",
+          "title": "How to GET a Cup of CoffeeÂ http://www.infoq.com/articles/webber-rest-workflow",
           "id": 23,
           "attr": {
             "style": {}
           },
           "ideas": {
             "1": {
-              "title": "http://www.infoq.com/articles/consumer-driven-contracts Service-Oriented Development with Consumer-Driven ContractsPosted by Ian Robinson on Jul 27, 2008",
+              "title": "http://www.infoq.com/articles/consumer-driven-contracts Service-Oriented Development with Consumer-Driven ContractsPosted byÂ Ian RobinsonÂ on Jul 27, 2008",
               "id": 51,
               "attr": {
                 "style": {}
@@ -257,7 +257,7 @@
           }
         },
         "6": {
-          "title": "REST in Practice: Hypermedia and Systems Arch (Paperback) by Jim Webber, Savas Parastatidis",
+          "title": "REST in Practice: Hypermedia and Systems ArchÂ (Paperback) byÂ Jim Webber,Â Savas Parastatidis",
           "id": 30,
           "attr": {
             "style": {}
@@ -271,7 +271,21 @@
     },
     "-4": {
       "title": "test2",
-      "id": 40
+      "id": 40,
+      "attr": {
+        "position": [
+          59.5,
+          363.5,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "test3",
+          "id": 58
+        }
+      }
     }
   },
   "links": [
