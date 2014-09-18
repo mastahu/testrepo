@@ -1,5 +1,11 @@
 {
   "title": "Camel",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "ProducerTemplate",
+      "id": 2
+    }
+  }
 }
