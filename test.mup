@@ -219,6 +219,34 @@
           "id": 23,
           "attr": {
             "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "http://www.infoq.com/articles/consumer-driven-contracts Service-Oriented Development with Consumer-Driven ContractsPosted by Ian Robinson on Jul 27, 2008",
+              "id": 51,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "authors",
+              "id": 52,
+              "ideas": {
+                "1": {
+                  "title": "Dr. Jim Webber is director of professional services for ThoughtWorks http://jim.webber.name/",
+                  "id": 53,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Savas Parastatidis is a Software Philosopher http://savas.parastatidis.name",
+                  "id": 56
+                },
+                "3": {
+                  "title": "Ian Robinson http://iansrobinson.com/",
+                  "id": 57
+                }
+              }
+            }
           }
         },
         "5": {
@@ -229,7 +257,7 @@
           }
         },
         "6": {
-          "title": "REST in Practice: Hypermedia and Systems Archâ€¦Â (Paperback)byÂ Jim Webber,Â Savas Parastatidis",
+          "title": "REST in Practice: Hypermedia and Systems Arch (Paperback) by Jim Webber, Savas Parastatidis",
           "id": 30,
           "attr": {
             "style": {}
