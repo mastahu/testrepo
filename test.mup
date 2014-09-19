@@ -49,7 +49,7 @@
               }
             },
             "2": {
-              "title": "SeedrsÃƒâ€š ",
+              "title": "Seedrs",
               "id": 29,
               "attr": {
                 "style": {}
@@ -83,7 +83,7 @@
               "id": 34,
               "ideas": {
                 "1": {
-                  "title": "Video : Does My Bus Look Big in This? by Martin Fowler & Jim Webber http://www.infoq.com/presentations/soa-without-esb",
+                  "title": "Video : Does My Bus Look Big in This? by Martin Fowler & Jim Webber http://www.infoq.com/presentations/soa-without-esb",
                   "id": 37,
                   "attr": {
                     "style": {}
@@ -113,7 +113,7 @@
                       "id": 47
                     },
                     "2": {
-                      "title": "Netflix blog entry does a great job of explaining their application of them.    http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html",
+                      "title": "Netflix blog entry does a great job of explaining their application of them.    http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html",
                       "id": 48
                     }
                   },
@@ -215,14 +215,14 @@
           }
         },
         "4": {
-          "title": "How to GET a Cup of Coffee http://www.infoq.com/articles/webber-rest-workflow",
+          "title": "How to GET a Cup of Coffee http://www.infoq.com/articles/webber-rest-workflow",
           "id": 23,
           "attr": {
             "style": {}
           },
           "ideas": {
             "1": {
-              "title": "http://www.infoq.com/articles/consumer-driven-contracts Service-Oriented Development with Consumer-Driven ContractsPosted by Ian Robinson on Jul 27, 2008",
+              "title": "http://www.infoq.com/articles/consumer-driven-contracts Service-Oriented Development with Consumer-Driven ContractsPosted by Ian Robinson on Jul 27, 2008",
               "id": 51,
               "attr": {
                 "style": {}
@@ -265,7 +265,7 @@
           "ideas": {}
         },
         "7": {
-          "title": "REST: From Research to Practice - WS-REST.org",
+          "title": "REST: From Research to Practice - WS-REST.org",
           "id": 59
         },
         "8": {
