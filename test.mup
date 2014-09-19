@@ -122,7 +122,7 @@
                   }
                 },
                 "6": {
-                  "title": "the preference in the microservice world is to only use versioning as a last resort. http://martinfowler.com/articles/enterpriseREST.html#versioning",
+                  "title": "the preference in the microservice world is to only use versioning as a last resort. http://martinfowler.com/articles/enterpriseREST.html#versioning",
                   "id": 49
                 },
                 "7": {
