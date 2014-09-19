@@ -83,7 +83,7 @@
               "id": 34,
               "ideas": {
                 "1": {
-                  "title": "Video : Does My Bus Look Big in This? by Martin Fowler & Jim Webber http://www.infoq.com/presentations/soa-without-esb",
+                  "title": "Video : Does My Bus Look Big in This? by Martin Fowler & Jim Webber http://www.infoq.com/presentations/soa-without-esb",
                   "id": 37,
                   "attr": {
                     "style": {}
@@ -122,11 +122,11 @@
                   }
                 },
                 "6": {
-                  "title": "the preference in the microservice world is to only use versioning as a last resort.  http://martinfowler.com/articles/enterpriseREST.html#versioning",
+                  "title": "the preference in the microservice world is to only use versioning as a last resort. http://martinfowler.com/articles/enterpriseREST.html#versioning",
                   "id": 49
                 },
                 "7": {
-                  "title": "CAP Twelve Years Later: How the \"Rules\" Have Changed http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed",
+                  "title": "CAP Twelve Years Later: How the \"Rules\" Have Changed http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed",
                   "id": 50
                 }
               },
