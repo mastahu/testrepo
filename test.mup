@@ -128,6 +128,10 @@
                 "7": {
                   "title": "CAP Twelve Years Later: How the \"Rules\" Have Changed http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed",
                   "id": 50
+                },
+                "8": {
+                  "title": "Event Collaboration by Martin Fowler http://martinfowler.com/eaaDev/EventCollaboration.html",
+                  "id": 65
                 }
               },
               "attr": {
@@ -288,7 +292,7 @@
               "id": 63
             },
             "3": {
-              "title": "Cool URIs don't change http://www.w3.org/Provider/Style/URI.html",
+              "title": "Cool URIs don't changeÂ http://www.w3.org/Provider/Style/URI.html",
               "id": 64
             }
           }
