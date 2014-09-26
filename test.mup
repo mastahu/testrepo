@@ -132,6 +132,16 @@
                 "8": {
                   "title": "Event Collaboration by Martin Fowler http://martinfowler.com/eaaDev/EventCollaboration.html",
                   "id": 65
+                },
+                "9": {
+                  "title": "Microservices and the First Law of Distributed Objects http://martinfowler.com/articles/distributed-objects-microservices.html",
+                  "id": 66,
+                  "ideas": {
+                    "1": {
+                      "title": "Cookie Cutter Scaling http://paulhammant.com/2011/11/29/cookie-cutter-scaling/",
+                      "id": 68
+                    }
+                  }
                 }
               },
               "attr": {
