@@ -402,7 +402,16 @@
         },
         "2": {
           "title": "Spring",
-          "id": 83
+          "id": 83,
+          "attr": {
+            "icon": {
+              "url": "internal:1/9a3bd50d-8890-836d-bcf9-5728a775fdb2/",
+              "width": 144,
+              "height": 25,
+              "position": "top"
+            },
+            "style": {}
+          }
         },
         "3": {
           "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used.  http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
@@ -425,5 +434,8 @@
   ],
   "attr": {
     "style": {}
+  },
+  "resources": {
+    "1/9a3bd50d-8890-836d-bcf9-5728a775fdb2/": "data:image/png;base64,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"
   }
 }
