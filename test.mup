@@ -399,6 +399,14 @@
               }
             }
           }
+        },
+        "2": {
+          "title": "Spring",
+          "id": 83
+        },
+        "3": {
+          "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used.  http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
+          "id": 84
         }
       }
     }
