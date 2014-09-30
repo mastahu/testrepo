@@ -15,6 +15,35 @@
           "id": 3
         }
       }
+    },
+    "-1": {
+      "title": "startup",
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "https://medium.com/@michalbohanes/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8",
+          "ideas": {
+            "1": {
+              "title": "accelerator programmes such as Seedcamp, TechStars or Wayra.",
+              "attr": {
+                "style": {}
+              },
+              "id": 6
+            },
+            "2": {
+              "title": "Seedrs",
+              "attr": {
+                "style": {}
+              },
+              "id": 7
+            }
+          },
+          "id": 5
+        }
+      },
+      "id": 4
     }
   }
 }
