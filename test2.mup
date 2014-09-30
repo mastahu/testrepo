@@ -1,0 +1,20 @@
+{
+  "title": "Press Space or double-click to edit",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "sdas",
+      "id": 2,
+      "attr": {
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "sadasda",
+          "id": 3
+        }
+      }
+    }
+  }
+}
