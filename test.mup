@@ -345,7 +345,7 @@
           },
           "attr": {
             "style": {
-              "background": "#ffff99"
+              "background": "transparent"
             }
           }
         }
