@@ -369,7 +369,7 @@
               "id": 76,
               "ideas": {
                 "1": {
-                  "title": "http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate saveOrUpdate nic nie robi",
+                  "title": "http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate  saveOrUpdate() does the following:if the object is already persistent in this session, do nothing",
                   "id": 77
                 }
               }
