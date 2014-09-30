@@ -342,6 +342,11 @@
               "title": "test4",
               "id": 69
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
           }
         }
       }
