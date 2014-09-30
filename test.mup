@@ -354,7 +354,31 @@
     "-5": {
       "title": "security",
       "id": 70,
-      "ideas": {}
+      "ideas": {
+        "1": {
+          "title": "dziury",
+          "id": 78,
+          "ideas": {
+            "1": {
+              "title": "Shellshock",
+              "id": 79,
+              "ideas": {
+                "1": {
+                  "title": "http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html",
+                  "id": 80,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "http://www.theregister.co.uk/2014/09/25/shellshock_bash_worm_type_fears/",
+                  "id": 82
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "-6": {
       "title": "Java",
