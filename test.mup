@@ -393,7 +393,7 @@
               "id": 76,
               "ideas": {
                 "1": {
-                  "title": "http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate  saveOrUpdate()Â does the following:if the object is already persistent in this session, do nothing",
+                  "title": "saveOrUpdate() does the following:if the object is already persistent in this session, do nothing http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate",
                   "id": 77
                 }
               }
@@ -410,13 +410,31 @@
               "height": 25,
               "position": "top"
             },
-            "style": {}
+            "style": {},
+            "position": [
+              20,
+              27,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used.  http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
+              "id": 84,
+              "attr": {
+                "style": {}
+              }
+            }
           }
-        },
-        "3": {
-          "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used.  http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
-          "id": 84
         }
+      },
+      "attr": {
+        "position": [
+          61.5,
+          636,
+          2
+        ],
+        "style": {}
       }
     }
   },
