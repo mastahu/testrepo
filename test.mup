@@ -138,7 +138,7 @@
                   "id": 66,
                   "ideas": {
                     "1": {
-                      "title": "Cookie Cutter Scaling http://paulhammant.com/2011/11/29/cookie-cutter-scaling/",
+                      "title": "Cookie Cutter Scaling http://paulhammant.com/2011/11/29/cookie-cutter-scaling/",
                       "id": 68
                     }
                   }
@@ -369,7 +369,7 @@
               "id": 76,
               "ideas": {
                 "1": {
-                  "title": "http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate  saveOrUpdate()�does the following:if the object is already persistent in this session, do nothing",
+                  "title": "http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate  saveOrUpdate() does the following:if the object is already persistent in this session, do nothing",
                   "id": 77
                 }
               }
