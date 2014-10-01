@@ -175,6 +175,20 @@
         }
       }
     },
+    "7": {
+      "title": "Bliki",
+      "id": 87,
+      "ideas": {
+        "1": {
+          "title": "Framework do asercji  efektow flusha na Hajbernejcie",
+          "id": 88
+        },
+        "2": {
+          "title": "C to kurwa jest POJO",
+          "id": 89
+        }
+      }
+    },
     "-2": {
       "title": "mindmapping tools",
       "id": 11,
@@ -393,8 +407,14 @@
               "id": 76,
               "ideas": {
                 "1": {
-                  "title": "saveOrUpdate() does the following:if the object is already persistent in this session, do nothing http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate",
-                  "id": 77
+                  "title": "Hibernate",
+                  "id": 86,
+                  "ideas": {
+                    "1": {
+                      "title": "saveOrUpdate() does the following:if the object is already persistent in this session, do nothing http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate",
+                      "id": 77
+                    }
+                  }
                 }
               }
             }
