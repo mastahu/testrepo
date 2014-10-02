@@ -394,7 +394,26 @@
         },
         "2": {
           "title": "OAuth",
-          "id": 88
+          "id": 88,
+          "ideas": {
+            "1": {
+              "title": "spring-security-oauth http://projects.spring.io/spring-security-oauth\n",
+              "id": 89,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "OpenID Connect http://openid.net/connect\n",
+              "id": 90,
+              "ideas": {
+                "1": {
+                  "title": "OpenID-Connect-Java-Spring-Server on GitHub https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server",
+                  "id": 91
+                }
+              }
+            }
+          }
         }
       }
     },
