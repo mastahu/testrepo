@@ -414,6 +414,16 @@
               }
             }
           }
+        },
+        "3": {
+          "title": "Securing the Tangled WebPreventing script injection vulnerabilities through software designChristoph Kern, Google http://queue.acm.org/detail.cfm?id=2663760",
+          "id": 93,
+          "ideas": {
+            "1": {
+              "title": "Foundations of Security: What Every Programmer Needs to Know (Expert's Voice) Christoph Kern (Author), Anita Kesavan (Author), Neil Daswani (Author)",
+              "id": 95
+            }
+          }
         }
       }
     },
