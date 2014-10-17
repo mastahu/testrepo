@@ -420,8 +420,12 @@
           "id": 93,
           "ideas": {
             "1": {
-              "title": "Foundations of Security: What Every Programmer Needs to Know (Expert's Voice) Christoph Kern (Author), Anita Kesavan (Author), Neil Daswani (Author)",
+              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice) Christoph Kern (Author), Anita Kesavan (Author), Neil Daswani (Author)",
               "id": 95
+            },
+            "2": {
+              "title": "Book: THE TANGLED WEB\nA Guide to Securing \nModern Web Applications\nby Michal Zalewski",
+              "id": 96
             }
           }
         }
