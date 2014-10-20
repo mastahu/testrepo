@@ -426,6 +426,24 @@
             "2": {
               "title": "Book: THE TANGLED WEB\nA Guide to Securing \nModern Web Applications\nby Michal Zalewski",
               "id": 96
+            },
+            "3": {
+              "title": "notes",
+              "id": 97,
+              "ideas": {
+                "1": {
+                  "title": "Inherently safe APIs.",
+                  "id": 98
+                },
+                "2": {
+                  "title": "Security type contracts.",
+                  "id": 100
+                },
+                "3": {
+                  "title": " Coding guidelines.",
+                  "id": 101
+                }
+              }
             }
           }
         }
