@@ -444,6 +444,20 @@
                   "id": 101
                 }
               }
+            },
+            "4": {
+              "title": "Contextually Auto-Escaping Template Engines",
+              "id": 104,
+              "ideas": {
+                "1": {
+                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers. Proceedings of the 18th ACM Conference on Computer and Communications Security: 587-600.",
+                  "id": 102
+                },
+                "2": {
+                  "title": "Strictly Contextually Auto-Escaping Template Engines",
+                  "id": 106
+                }
+              }
             }
           }
         }
