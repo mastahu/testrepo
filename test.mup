@@ -1,5 +1,5 @@
 {
-  "title": "test",
+  "title": "korzeD",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -336,35 +336,6 @@
         "style": {}
       }
     },
-    "-4": {
-      "title": "test2",
-      "id": 40,
-      "attr": {
-        "position": [
-          59.5,
-          363.5,
-          1
-        ],
-        "style": {}
-      },
-      "ideas": {
-        "1": {
-          "title": "test3",
-          "id": 58,
-          "ideas": {
-            "1": {
-              "title": "test4",
-              "id": 69
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "transparent"
-            }
-          }
-        }
-      }
-    },
     "-5": {
       "title": "security",
       "id": 70,
@@ -420,7 +391,7 @@
           "id": 93,
           "ideas": {
             "1": {
-              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice) Christoph Kern (Author), Anita Kesavan (Author), Neil Daswani (Author)",
+              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice)Â Christoph KernÂ (Author),Â Anita KesavanÂ (Author),Â Neil DaswaniÂ (Author)",
               "id": 95
             },
             "2": {
@@ -440,7 +411,7 @@
                   "id": 100
                 },
                 "3": {
-                  "title": " Coding guidelines.",
+                  "title": "Â Coding guidelines.",
                   "id": 101
                 }
               }
@@ -450,7 +421,7 @@
               "id": 104,
               "ideas": {
                 "1": {
-                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers. Proceedings of the 18th ACM Conference on Computer and Communications Security: 587-600.",
+                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers.Â Proceedings of the 18th ACM Conference on Computer and Communications Security:Â 587-600.",
                   "id": 102
                 },
                 "2": {
@@ -502,7 +473,7 @@
           },
           "ideas": {
             "1": {
-              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. Â http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
+              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. Ã‚Â http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
               "id": 84,
               "attr": {
                 "style": {}
