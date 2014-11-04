@@ -180,12 +180,16 @@
       "id": 85,
       "ideas": {
         "1": {
-          "title": "Framework do assercji hibernatea",
+          "title": "Framework do assercji hibernate'a - mozna na nim sprawdzac co sie zapisze do bazy - ktore obiekty itp",
           "id": 86
         },
         "2": {
           "title": "POJO",
           "id": 87
+        },
+        "3": {
+          "title": "What is wrong with  GIT: why it does not remember what was merged to what? That would remove false dilemma merge or rebase. Because the effect would be a single line of commits with merge commits looking like squashed and rebased branch",
+          "id": 107
         }
       }
     },
