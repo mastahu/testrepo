@@ -30,7 +30,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "3": {
@@ -59,7 +60,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "4": {
@@ -152,7 +154,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "5": {
@@ -163,6 +166,10 @@
           "title": "http://scratch.mit.edu/",
           "id": 44
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "6": {
@@ -173,6 +180,10 @@
           "title": "http://www.cloudlock.com/blog/google-drive-as-a-web-server-and-security-implications/ How To Use Google Drive As A Web Server",
           "id": 73
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "7": {
@@ -191,6 +202,10 @@
           "title": "What is wrong with  GIT: why it does not remember what was merged to what? That would remove false dilemma merge or rebase. Because the effect would be a single line of commits with merge commits looking like squashed and rebased branch",
           "id": 107
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-2": {
@@ -213,7 +228,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-3": {
@@ -337,7 +353,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-5": {
@@ -436,6 +453,10 @@
             }
           }
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-6": {
@@ -496,7 +517,8 @@
           636,
           2
         ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-7": {
@@ -506,6 +528,20 @@
         "1": {
           "title": "http://www.hrma.ca/wp-content/uploads/2012/11/rb-the-best-and-the-rest.pdf",
           "id": 109
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
+      }
+    },
+    "-8": {
+      "title": "inne",
+      "id": 110,
+      "ideas": {
+        "1": {
+          "title": "http://tomayko.com/writings/the-thing-about-git",
+          "id": 111
         }
       }
     }
