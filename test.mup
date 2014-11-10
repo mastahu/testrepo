@@ -350,11 +350,14 @@
               "id": 64
             }
           }
+        },
+        "9": {
+          "title": "http://rest.elkstein.org/",
+          "id": 112
         }
       },
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "-5": {
