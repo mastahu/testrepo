@@ -208,6 +208,16 @@
         "style": {}
       }
     },
+    "8": {
+      "title": "logging",
+      "id": 113,
+      "ideas": {
+        "1": {
+          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons Logging http://articles.qos.ch/classloader.html",
+          "id": 114
+        }
+      }
+    },
     "-2": {
       "title": "mindmapping tools",
       "id": 11,
