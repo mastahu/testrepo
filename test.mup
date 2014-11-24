@@ -199,7 +199,7 @@
           "id": 87
         },
         "3": {
-          "title": "What is wrong with  GIT: why it does not remember what was merged to what? That would remove false dilemma merge or rebase. Because the effect would be a single line of commits with merge commits looking like squashed and rebased branch",
+          "title": "What is wrong with  GIT: why it does not remember what was merged to what? That would remove false dilemmaÂ merge or rebase. Because the effect would be a single line of commits with merge commits looking like squashed and rebased branch",
           "id": 107
         }
       },
@@ -213,8 +213,12 @@
       "id": 113,
       "ideas": {
         "1": {
-          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons Logging�http://articles.qos.ch/classloader.html",
+          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons Logging http://articles.qos.ch/classloader.html",
           "id": 114
+        },
+        "2": {
+          "title": "http://jayunit100.blogspot.co.uk/2013/10/simplifying-distinction-between-sl4j.html",
+          "id": 115
         }
       }
     },
@@ -425,7 +429,7 @@
           "id": 93,
           "ideas": {
             "1": {
-              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice)Â Christoph KernÂ (Author),Â Anita KesavanÂ (Author),Â Neil DaswaniÂ (Author)",
+              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice)ÃÂ Christoph KernÃÂ (Author),ÃÂ Anita KesavanÃÂ (Author),ÃÂ Neil DaswaniÃÂ (Author)",
               "id": 95
             },
             "2": {
@@ -445,7 +449,7 @@
                   "id": 100
                 },
                 "3": {
-                  "title": "Â Coding guidelines.",
+                  "title": "ÃÂ Coding guidelines.",
                   "id": 101
                 }
               }
@@ -455,7 +459,7 @@
               "id": 104,
               "ideas": {
                 "1": {
-                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers.Â Proceedings of the 18th ACM Conference on Computer and Communications Security:Â 587-600.",
+                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers.ÃÂ Proceedings of the 18th ACM Conference on Computer and Communications Security:ÃÂ 587-600.",
                   "id": 102
                 },
                 "2": {
@@ -511,7 +515,7 @@
           },
           "ideas": {
             "1": {
-              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. ÃÂ http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
+              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. ÃÂÃÂ http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
               "id": 84,
               "attr": {
                 "style": {}
