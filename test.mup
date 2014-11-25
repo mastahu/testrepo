@@ -220,6 +220,10 @@
           "title": "http://jayunit100.blogspot.co.uk/2013/10/simplifying-distinction-between-sl4j.html",
           "id": 115
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-2": {
@@ -371,7 +375,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-5": {
@@ -560,6 +565,10 @@
           "title": "http://tomayko.com/writings/the-thing-about-git",
           "id": 111
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-9": {
@@ -572,8 +581,15 @@
         },
         "2": {
           "title": "http://perl.plover.com/yak/presentation/",
-          "id": 118
+          "id": 118,
+          "attr": {
+            "style": {}
+          }
         }
+      },
+      "attr": {
+        "style": {},
+        "collapsed": true
       }
     }
   },
