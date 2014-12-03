@@ -226,6 +226,22 @@
         "style": {}
       }
     },
+    "9": {
+      "title": "learning",
+      "id": 119,
+      "ideas": {
+        "1": {
+          "title": "Dreyfus model of skill acquisition",
+          "id": 120,
+          "ideas": {
+            "1": {
+              "title": "Mind Over Machine: The Power of Human Intuition and Expertise in\nthe Era of the Computer [DD86].",
+              "id": 121
+            }
+          }
+        }
+      }
+    },
     "-2": {
       "title": "mindmapping tools",
       "id": 11,
