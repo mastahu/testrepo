@@ -151,11 +151,14 @@
               }
             }
           }
+        },
+        "2": {
+          "title": "http://martinfowler.com/articles/microservice-testing  Testing Strategies in aMicroservice Architecture",
+          "id": 132
         }
       },
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "5": {
@@ -199,7 +202,7 @@
           "id": 87
         },
         "3": {
-          "title": "What is wrong with  GIT: why it does not remember what was merged to what? That would remove false dilemmaÂ merge or rebase. Because the effect would be a single line of commits with merge commits looking like squashed and rebased branch",
+          "title": "What is wrong with  GIT: why it does not remember what was merged to what? That would remove false dilemmaÃÂ merge or rebase. Because the effect would be a single line of commits with merge commits looking like squashed and rebased branch",
           "id": 107
         }
       },
@@ -213,7 +216,7 @@
       "id": 113,
       "ideas": {
         "1": {
-          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons Logging http://articles.qos.ch/classloader.html",
+          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons LoggingÂ http://articles.qos.ch/classloader.html",
           "id": 114
         },
         "2": {
@@ -257,6 +260,22 @@
             "6": {
               "title": "Standards for Online Communication",
               "id": 126
+            },
+            "7": {
+              "title": "Unskilled and Unaware of It: How Difficulties\nin Recognizing One’s Own Incompetence Lead to Inflated\nSelf-Assessments",
+              "id": 127
+            },
+            "8": {
+              "title": "The Scope, Limits, and Training Implications of Three Models of Aircraft\nPilot Emergency Response Behavior",
+              "id": 128
+            },
+            "9": {
+              "title": "The Complete Problem Solver",
+              "id": 129
+            },
+            "10": {
+              "title": "Developing Talent in\nYoung People",
+              "id": 131
             }
           }
         }
@@ -411,8 +430,7 @@
         }
       },
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "-5": {
@@ -470,7 +488,7 @@
           "id": 93,
           "ideas": {
             "1": {
-              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice)ÃÂ Christoph KernÃÂ (Author),ÃÂ Anita KesavanÃÂ (Author),ÃÂ Neil DaswaniÃÂ (Author)",
+              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice)ÃÂÃÂ Christoph KernÃÂÃÂ (Author),ÃÂÃÂ Anita KesavanÃÂÃÂ (Author),ÃÂÃÂ Neil DaswaniÃÂÃÂ (Author)",
               "id": 95
             },
             "2": {
@@ -490,7 +508,7 @@
                   "id": 100
                 },
                 "3": {
-                  "title": "ÃÂ Coding guidelines.",
+                  "title": "ÃÂÃÂ Coding guidelines.",
                   "id": 101
                 }
               }
@@ -500,7 +518,7 @@
               "id": 104,
               "ideas": {
                 "1": {
-                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers.ÃÂ Proceedings of the 18th ACM Conference on Computer and Communications Security:ÃÂ 587-600.",
+                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers.ÃÂÃÂ Proceedings of the 18th ACM Conference on Computer and Communications Security:ÃÂÃÂ 587-600.",
                   "id": 102
                 },
                 "2": {
@@ -556,7 +574,7 @@
           },
           "ideas": {
             "1": {
-              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. ÃÂÃÂ http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
+              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. ÃÂÃÂÃÂÃÂ http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
               "id": 84,
               "attr": {
                 "style": {}
