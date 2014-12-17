@@ -658,6 +658,16 @@
         "1": {
           "title": "http://www.di.unipi.it/~nids/teaching/files/ObjTh.pdf",
           "id": 134
+        },
+        "2": {
+          "title": "problems with OO",
+          "id": 135,
+          "ideas": {
+            "1": {
+              "title": "putting services and repositories into entities, because I don't know upfront what exact data I will need inside + maybe some actions must be executed in the middle of algorithm",
+              "id": 136
+            }
+          }
         }
       }
     }
