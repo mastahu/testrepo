@@ -666,6 +666,10 @@
             "1": {
               "title": "putting services and repositories into entities, because I don't know upfront what exact data I will need inside + maybe some actions must be executed in the middle of algorithm",
               "id": 136
+            },
+            "2": {
+              "title": "Getting into required state to test persistence might be tricky",
+              "id": 138
             }
           }
         }
