@@ -556,6 +556,16 @@
                 "1": {
                   "title": "saveOrUpdate() does the following:if the object is already persistent in this session, do nothing http://docs.jboss.org/hibernate/core/3.6/reference/en-US/html/objectstate.html#objectstate-saveorupdate",
                   "id": 77
+                },
+                "2": {
+                  "title": "Hibernate",
+                  "id": 139,
+                  "ideas": {
+                    "1": {
+                      "title": "https://zorq.net/b/2012/04/21/switching-hibernates-uuid-type-mapping-per-database/",
+                      "id": 140
+                    }
+                  }
                 }
               }
             }
@@ -599,8 +609,7 @@
           636,
           2
         ],
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "-7": {
