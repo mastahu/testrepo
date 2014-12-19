@@ -276,12 +276,15 @@
             "10": {
               "title": "Developing Talent in\nYoung People",
               "id": 131
+            },
+            "11": {
+              "title": "http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner",
+              "id": 149
             }
           }
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {}
       }
     },
