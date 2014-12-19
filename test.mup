@@ -158,8 +158,7 @@
         }
       },
       "attr": {
-        "style": {},
-        "collapsed": true
+        "style": {}
       }
     },
     "5": {
@@ -284,6 +283,37 @@
       "attr": {
         "collapsed": true,
         "style": {}
+      }
+    },
+    "10": {
+      "title": "TDD",
+      "id": 141,
+      "ideas": {
+        "2": {
+          "title": "IS TDD dead",
+          "id": 143,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "https://signalvnoise.com/posts/3159-testing-like-the-tsa",
+              "id": 144
+            },
+            "2": {
+              "title": "https://signalvnoise.com/posts/3159-testing-like-the-tsa",
+              "id": 146
+            },
+            "3": {
+              "title": "http://david.heinemeierhansson.com/2014/test-induced-design-damage.html",
+              "id": 147
+            },
+            "4": {
+              "title": "http://martinfowler.com/articles/is-tdd-dead/",
+              "id": 148
+            }
+          }
+        }
       }
     },
     "-2": {
