@@ -162,16 +162,31 @@
       }
     },
     "5": {
-      "title": "nauka programowania",
+      "title": "teaching",
       "id": 43,
       "ideas": {
         "1": {
-          "title": "http://scratch.mit.edu/",
-          "id": 44
+          "title": "kids",
+          "id": 150,
+          "ideas": {
+            "1": {
+              "title": "http://scratch.mit.edu/",
+              "id": 44
+            },
+            "2": {
+              "title": "Teaching Kids Java Programming  http://www.infoq.com/articles/Teaching-Kids-Java",
+              "id": 154,
+              "ideas": {
+                "1": {
+                  "title": "http://yfain.github.io/Java4Kids_NoStarchPress/",
+                  "id": 156
+                }
+              }
+            }
+          }
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {}
       }
     },
