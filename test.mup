@@ -3,46 +3,6 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "2": {
-      "title": "angular",
-      "id": 14,
-      "ideas": {
-        "1": {
-          "title": "http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/",
-          "id": 15,
-          "ideas": {
-            "1": {
-              "title": "http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/",
-              "id": 17,
-              "attr": {
-                "style": {}
-              }
-            }
-          }
-        },
-        "2": {
-          "title": "https://www.youtube.com/watch?v=ZhfUv0spHCY&feature=youtu.be&t=30m",
-          "id": 18,
-          "ideas": {},
-          "attr": {
-            "style": {}
-          }
-        },
-        "3": {
-          "title": "server side rendering",
-          "id": 162,
-          "ideas": {
-            "1": {
-              "title": "AngularJS NYC Meetup - Directives and Server-side template rendering (2012-09-25) https://www.youtube.com/watch?v=iB7hfvqyZpg",
-              "id": 163
-            }
-          }
-        }
-      },
-      "attr": {
-        "style": {}
-      }
-    },
     "3": {
       "title": "startup",
       "id": 25,
@@ -725,7 +685,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-10": {
@@ -750,6 +711,10 @@
             }
           }
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-11": {
@@ -759,16 +724,58 @@
         "1": {
           "title": "Angular",
           "id": 159,
-          "ideas": {
-            "1": {
-              "title": "https://docs.angularjs.org/tutorial",
-              "id": 160
-            }
-          }
+          "ideas": {}
         },
         "2": {
           "title": "JSONP",
           "id": 161
+        },
+        "3": {
+          "title": "Angular",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/",
+                  "id": 17,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "https://www.youtube.com/watch?v=ZhfUv0spHCY&feature=youtu.be&t=30m",
+              "id": 18,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "server side rendering",
+              "id": 162,
+              "ideas": {
+                "1": {
+                  "title": "AngularJS NYC Meetup - Directives and Server-side template rendering (2012-09-25) https://www.youtube.com/watch?v=iB7hfvqyZpg",
+                  "id": 163
+                }
+              }
+            },
+            "4": {
+              "title": "https://docs.angularjs.org/tutorial",
+              "id": 160,
+              "attr": {
+                "style": {}
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
         }
       }
     }
