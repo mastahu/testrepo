@@ -314,6 +314,22 @@
         "style": {}
       }
     },
+    "11": {
+      "title": "entrepreneurship",
+      "id": 167,
+      "ideas": {
+        "1": {
+          "title": "coop",
+          "id": 168,
+          "ideas": {
+            "1": {
+              "title": "https://www.plausible.coop/blog/",
+              "id": 169
+            }
+          }
+        }
+      }
+    },
     "-2": {
       "title": "mindmapping tools",
       "id": 11,
