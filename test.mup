@@ -192,7 +192,7 @@
           "id": 87
         },
         "3": {
-          "title": "What is wrong with  GIT: why it does not remember what was merged to what? That would remove false dilemmaÃÂ merge or rebase. Because the effect would be a single line of commits with merge commits looking like squashed and rebased branch",
+          "title": "What is wrong with  GIT: why it does not remember what was merged to what? That would remove false dilemmaÃƒÂ‚Ã‚Â merge or rebase. Because the effect would be a single line of commits with merge commits looking like squashed and rebased branch",
           "id": 107
         }
       },
@@ -206,7 +206,7 @@
       "id": 113,
       "ideas": {
         "1": {
-          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons LoggingÂ http://articles.qos.ch/classloader.html",
+          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons LoggingÃ‚Â http://articles.qos.ch/classloader.html",
           "id": 114
         },
         "2": {
@@ -252,7 +252,7 @@
               "id": 126
             },
             "7": {
-              "title": "Unskilled and Unaware of It: How Difficulties\nin Recognizing One’s Own Incompetence Lead to Inflated\nSelf-Assessments",
+              "title": "Unskilled and Unaware of It: How Difficulties\nin Recognizing Oneâ€™s Own Incompetence Lead to Inflated\nSelf-Assessments",
               "id": 127
             },
             "8": {
@@ -329,7 +329,7 @@
           }
         },
         "2": {
-          "title": "Joel Spolsky on Equity for Startups�https://gist.github.com/isaacsanders/1653078",
+          "title": "Joel Spolsky on Equity for Startups https://gist.github.com/isaacsanders/1653078",
           "id": 170
         }
       }
@@ -542,7 +542,7 @@
           "id": 93,
           "ideas": {
             "1": {
-              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice)ÃÂÃÂ Christoph KernÃÂÃÂ (Author),ÃÂÃÂ Anita KesavanÃÂÃÂ (Author),ÃÂÃÂ Neil DaswaniÃÂÃÂ (Author)",
+              "title": "Book: Foundations of Security: What Every Programmer Needs to Know (Expert's Voice)ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â Christoph KernÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â (Author),ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â Anita KesavanÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â (Author),ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â Neil DaswaniÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â (Author)",
               "id": 95
             },
             "2": {
@@ -562,7 +562,7 @@
                   "id": 100
                 },
                 "3": {
-                  "title": "ÃÂÃÂ Coding guidelines.",
+                  "title": "ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â Coding guidelines.",
                   "id": 101
                 }
               }
@@ -572,7 +572,7 @@
               "id": 104,
               "ideas": {
                 "1": {
-                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers.ÃÂÃÂ Proceedings of the 18th ACM Conference on Computer and Communications Security:ÃÂÃÂ 587-600.",
+                  "title": "6. Samuel, M., Saxena, P., Song, D. 2011. Context-sensitive auto-sanitization in Web templating languages using type qualifiers.ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â Proceedings of the 18th ACM Conference on Computer and Communications Security:ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â 587-600.",
                   "id": 102
                 },
                 "2": {
@@ -638,7 +638,7 @@
           },
           "ideas": {
             "1": {
-              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. ÃÂÃÂÃÂÃÂ http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
+              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. ÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚Â‚ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
               "id": 84,
               "attr": {
                 "style": {}
@@ -741,11 +741,6 @@
       "title": "JS",
       "id": 158,
       "ideas": {
-        "1": {
-          "title": "Angular",
-          "id": 159,
-          "ideas": {}
-        },
         "2": {
           "title": "JSONP",
           "id": 161
@@ -790,6 +785,16 @@
               "id": 160,
               "attr": {
                 "style": {}
+              }
+            },
+            "5": {
+              "title": "criticism",
+              "id": 171,
+              "ideas": {
+                "1": {
+                  "title": "http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html",
+                  "id": 172
+                }
               }
             }
           },
