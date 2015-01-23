@@ -212,10 +212,26 @@
         "2": {
           "title": "http://jayunit100.blogspot.co.uk/2013/10/simplifying-distinction-between-sl4j.html",
           "id": 115
+        },
+        "3": {
+          "title": "Log4j",
+          "id": 176,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Dynamic reloading of the config http://stackoverflow.com/questions/9320133/how-do-i-programmatically-tell-logback-to-reload-configuration",
+              "id": 177,
+              "ideas": {},
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {}
       }
     },
