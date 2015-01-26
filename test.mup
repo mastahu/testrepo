@@ -206,7 +206,7 @@
       "id": 113,
       "ideas": {
         "1": {
-          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons LoggingÃ‚Â http://articles.qos.ch/classloader.html",
+          "title": "Taxonomy of class loader problems encountered when using Jakarta Commons Logging http://articles.qos.ch/classloader.html",
           "id": 114
         },
         "2": {
@@ -654,7 +654,7 @@
           },
           "ideas": {
             "1": {
-              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. ÃƒÂƒÃ‚ÂƒÃƒÂ‚Ã‚Â‚ÃƒÂƒÃ‚Â‚ÃƒÂ‚Ã‚Â http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
+              "title": "If the target object to be proxied implements at least one interface then a JDK dynamic proxy will be used. http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html#aop-proxying",
               "id": 84,
               "attr": {
                 "style": {}
