@@ -345,8 +345,12 @@
           }
         },
         "2": {
-          "title": "Joel Spolsky on Equity for Startups https://gist.github.com/isaacsanders/1653078",
+          "title": "Joel Spolsky on Equity for Startups https://gist.github.com/isaacsanders/1653078",
           "id": 170
+        },
+        "3": {
+          "title": "http://www.producttalk.org/2015/01/enterprise-experiments/",
+          "id": 178
         }
       }
     },
