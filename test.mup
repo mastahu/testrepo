@@ -232,7 +232,8 @@
         }
       },
       "attr": {
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "9": {
@@ -352,6 +353,10 @@
           "title": "http://www.producttalk.org/2015/01/enterprise-experiments/",
           "id": 178
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-2": {
@@ -672,12 +677,8 @@
         }
       },
       "attr": {
-        "position": [
-          61.5,
-          636,
-          2
-        ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-7": {
@@ -832,6 +833,10 @@
             }
           }
         }
+      },
+      "attr": {
+        "style": {},
+        "collapsed": true
       }
     }
   },
